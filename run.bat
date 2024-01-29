@@ -1,0 +1,1 @@
+.\Scripts\activate.bat && flask --app spotmusic run
